@@ -1,6 +1,7 @@
 body{
   text-align: center;
-  font-family: georgia;
+  font-family: georgia sans-serif;
+  
 }
 
 
@@ -11,8 +12,8 @@ body{
 
 .main-info{
   background-color: black;
-  position: relative
-  margin-top: 0;
+  position: relative;
+  width: 100%;
 
 }
 
