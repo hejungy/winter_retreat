@@ -1,2 +1,27 @@
-body{text-align: center; font-family: georgia;}
-.left{text-align: left;}
+body{
+  text-align: center;
+  font-family: georgia;
+}
+
+
+.left{
+  text-align: left;
+}
+
+
+.main-info{
+  background-color: black;
+  position: relative
+  margin-top: 0;
+
+}
+
+
+.other-info{
+  background-color: white
+}
+
+
+.white {
+  color: white;
+}
