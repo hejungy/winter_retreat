@@ -1,7 +1,7 @@
 body{
   text-align: center;
   font-family: georgia sans-serif;
-  
+
 }
 
 
@@ -25,4 +25,13 @@ body{
 
 .white {
   color: white;
+}
+
+.bold-it{
+  font-style: italic;
+  font-weight: bold;
+}
+
+.update{
+  color: #FF4500;
 }
